@@ -1,6 +1,6 @@
 {
   "name": "mcq-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://harshjain09012004.github.io/MINI-MCQ-APP/",
